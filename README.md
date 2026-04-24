@@ -55,7 +55,7 @@ Gaussian Naive Bayes, Decision Tree, Random Forest, Support Vector Machine (SVM)
 
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Download dataset from [Kaggle](https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data)
-3. Upload `kddcup.data_10_percent_corrected` to Colab
+3. Upload arhive.zip for unziping `kddcup.data_10_percent_corrected` to Colab
 4. Run each cell step by step:
    - Install & import libraries
    - Load and explore data
